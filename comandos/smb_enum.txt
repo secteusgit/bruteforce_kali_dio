@@ -1,0 +1,1 @@
+enum4linux -a 192.168.55.3 | tee resultados/enum4_output.txt

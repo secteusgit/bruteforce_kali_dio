@@ -1,0 +1,1 @@
+medusa -h 192.168.55.3 -U wordlists/users.txt -P wordlists/pass.txt -M http -t 6
